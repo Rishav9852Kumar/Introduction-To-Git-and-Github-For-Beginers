@@ -9,7 +9,7 @@ git status
 git add .
 git commit -m "saving updates for upload"
 ```
-Then the output will say something like this 
+Then the output will say something like this </br>
 <img src="https://github.com/Rishav9852Kumar/Introduction-To-Git-and-Github-For-Beginers/blob/main/Resources/github-image-1.jpg">
 Now you you need to log in to your Github account 
 Create a new Repository with basic Name and Description you want
