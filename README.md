@@ -17,7 +17,7 @@ Now let all fields to be default and do not checkmark the Addreadme box (that is
 ## </br><b>just like this :-</b></br>
 <img src="https://github.com/Rishav9852Kumar/Introduction-To-Git-and-Github-For-Beginers/blob/main/Resources/github%202.PNG"></br></br>
 </br>then clink on create Repository
-</br>You Will see something like this on your giothub Account:-
+</br>You Will see something like this on your giothub Account:-</br>
 <img src="https://github.com/Rishav9852Kumar/Introduction-To-Git-and-Github-For-Beginers/blob/main/Resources/github%202.PNG">
 
 
