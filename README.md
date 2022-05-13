@@ -23,6 +23,7 @@ git commit -m "saving updates for upload"
 ![](https://github.com/Rishav9852Kumar/Introduction-To-Git-and-Github-For-Beginers/blob/main/Resources/github3_LI%20(2).jpg)
 ### Into your VS terminal
 ![](https://github.com/Rishav9852Kumar/Introduction-To-Git-and-Github-For-Beginers/blob/main/Resources/git%204.PNG)
+#### Press enter and wait for few seconds , once you see completion message in vs code terminal refresh</br> your github webpage and you will find all your Files are uploaded .
 
 
 
