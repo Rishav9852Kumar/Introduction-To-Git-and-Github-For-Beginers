@@ -7,7 +7,7 @@ Then in VS Code inbuilt terminal you type
 ```
 git status
 git add .
-git commit -m "saving updates for upload
+git commit -m "saving updates for upload"
 ```
 Then the output will say something like this 
 <img src="">
