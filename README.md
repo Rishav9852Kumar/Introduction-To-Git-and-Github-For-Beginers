@@ -15,9 +15,9 @@ git commit -m "saving updates for upload"
 ### Create a new Repository with basic Name and Description you want
 ### Now let all fields to be default and do not checkmark the Addreadme box (that is we do not want to add a read me file right now)
 ### </br><b>just like this :-</b></br>
-<img src="https://github.com/Rishav9852Kumar/Introduction-To-Git-and-Github-For-Beginers/blob/main/Resources/github%202.PNG">
+    <img src="https://github.com/Rishav9852Kumar/Introduction-To-Git-and-Github-For-Beginers/blob/main/Resources/github%202.PNG">
 ### then clink on create Repository
-## You Will see something like this on your giothub Account:-</br></br>
+### You Will see something like this on your giothub Account:-</br></br>
 <img src="https://github.com/Rishav9852Kumar/Introduction-To-Git-and-Github-For-Beginers/blob/main/Resources/github3.PNG">
 ### Now copy the commoand shown below from your github page into your command terminal </br>
 <img src="https://github.com/Rishav9852Kumar/Introduction-To-Git-and-Github-For-Beginers/blob/main/Resources/github3_LI%20(2).jpg">
